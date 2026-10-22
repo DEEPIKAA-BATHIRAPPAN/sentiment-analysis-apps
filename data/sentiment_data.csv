@@ -1,0 +1,228 @@
+text,sentiment
+"The new headphones sound crisp and feel comfortable all day.",Positive
+"Customer support solved my billing problem in minutes.",Positive
+"This little coffee maker brews a rich cup every morning.",Positive
+"The jacket fits perfectly and the fabric feels durable.",Positive
+"Setup was simple and the instructions were easy to follow.",Positive
+"The delivery arrived early and everything was carefully packed.",Positive
+"I am delighted with how smoothly this app works.",Positive
+"The hotel room was spotless and the staff were welcoming.",Positive
+"Battery life is excellent even with the screen turned up.",Positive
+"The replacement part fit right away and works beautifully.",Positive
+"The garden received more blooms after using this soil.",Positive
+"The pasta was fresh and the sauce had wonderful flavor.",Positive
+"My order was correct and arrived exactly when promised.",Positive
+"The screen is bright, sharp, and easy to read outdoors.",Positive
+"The team listened carefully and delivered a polished result.",Positive
+"These shoes are lightweight and comfortable for long walks.",Positive
+"The update fixed the problem and added useful features.",Positive
+"The book was engaging from the first chapter to the last.",Positive
+"The technician was patient and explained every step clearly.",Positive
+"This moisturizer feels gentle and leaves my skin soft.",Positive
+"The bus was clean and the driver was very courteous.",Positive
+"The recipe turned out delicious and was easy for beginners.",Positive
+"I appreciate the thoughtful packaging and handwritten note.",Positive
+"The new keyboard is quiet and pleasant to type on.",Positive
+"The course materials are clear, practical, and well organized.",Positive
+"Our reservation was ready and the view was fantastic.",Positive
+"The vacuum picks up pet hair better than my old one.",Positive
+"The refund was processed quickly without any extra effort.",Positive
+"The plants look healthier since I started using this lamp.",Positive
+"The headphones paired instantly with both of my devices.",Positive
+"This neighborhood cafe makes consistently excellent tea.",Positive
+"The repair was affordable and the appliance runs like new.",Positive
+"The presentation was concise, helpful, and visually appealing.",Positive
+"My package was protected well and all items were included.",Positive
+"The children enjoyed the museum activities and learned a lot.",Positive
+"The website is intuitive and makes finding information easy.",Positive
+"The cotton sheets are soft and keep me comfortable overnight.",Positive
+"The staff made a complicated return feel effortless.",Positive
+"This camera takes vivid photos in low light.",Positive
+"The meeting started on time and stayed focused.",Positive
+"The soup was flavorful and served at the perfect temperature.",Positive
+"I love the sturdy design and thoughtful details.",Positive
+"The installation finished quickly and everything works perfectly.",Positive
+"The garden tools are well balanced and easy to handle.",Positive
+"The support team followed up to make sure I was satisfied.",Positive
+"The train seats were comfortable and the ride was quiet.",Positive
+"This planner keeps my week organized without feeling cluttered.",Positive
+"The new menu has several delicious vegetarian options.",Positive
+"The charging cable is strong and reaches my desk comfortably.",Positive
+"The instructor made difficult ideas engaging and understandable.",Positive
+"The rental was clean, convenient, and exactly as described.",Positive
+"The lotion absorbs quickly and has a pleasant mild scent.",Positive
+"My order arrived in perfect condition and works as expected.",Positive
+"The dashboard makes our weekly reports much easier to prepare.",Positive
+"The concert venue had clear sound and helpful staff.",Positive
+"This backpack distributes weight well and has useful pockets.",Positive
+"The new tires made the ride quieter and smoother.",Positive
+"The customer service representative was kind and knowledgeable.",Positive
+"The lunch special was generous and tasted homemade.",Positive
+"The subscription is easy to manage and offers useful content.",Positive
+"The desk is sturdy, spacious, and straightforward to assemble.",Positive
+"The mobile app loads slowly and crashes whenever I open settings.",Negative
+"My package arrived broken and customer support has not replied.",Negative
+"The headphones lose connection every few minutes.",Negative
+"This coffee maker leaks water all over the counter.",Negative
+"The jacket seams came apart after only two wears.",Negative
+"The instructions are confusing and several parts are missing.",Negative
+"I waited an hour and still did not receive my order.",Negative
+"The hotel room smelled musty and the sheets were stained.",Negative
+"Battery life is terrible and the phone overheats during calls.",Negative
+"The replacement part does not fit this model at all.",Negative
+"The soil was dry and my plants started wilting.",Negative
+"The pasta was cold and the sauce tasted bland.",Negative
+"My order contained the wrong size and no return label.",Negative
+"The screen flickers constantly and strains my eyes.",Negative
+"The team missed the deadline and ignored our feedback.",Negative
+"These shoes rubbed my heels raw during a short walk.",Negative
+"The update removed features I use and made the app slower.",Negative
+"The book was dull and difficult to finish.",Negative
+"The technician arrived late and did not explain the repair.",Negative
+"This moisturizer irritated my skin and left a sticky residue.",Negative
+"The bus was crowded, dirty, and nearly twenty minutes late.",Negative
+"The recipe was difficult to follow and tasted disappointing.",Negative
+"The packaging was crushed and the item was scratched.",Negative
+"The keyboard keys stick and make typing frustrating.",Negative
+"The course videos stop playing halfway through each lesson.",Negative
+"Our reservation was lost and the staff could not help us.",Negative
+"The vacuum leaves pet hair behind and clogs constantly.",Negative
+"I have been waiting weeks for the promised refund.",Negative
+"The lamp stopped working after just three days.",Negative
+"The headphones would not pair with either of my devices.",Negative
+"The cafe served lukewarm tea and charged far too much.",Negative
+"The repair cost more than a new appliance and failed again.",Negative
+"The presentation was disorganized and hard to read.",Negative
+"My package was left in the rain with items missing.",Negative
+"The museum was overcrowded and most activities were closed.",Negative
+"The website is confusing and the search returns irrelevant pages.",Negative
+"The sheets are scratchy and uncomfortable to sleep on.",Negative
+"The return process was frustrating and took several phone calls.",Negative
+"This camera produces blurry photos even in bright daylight.",Negative
+"The meeting started late and accomplished very little.",Negative
+"The soup was salty, cold, and served after a long wait.",Negative
+"The plastic design feels flimsy and already has a crack.",Negative
+"Installation failed twice and the error message was useless.",Negative
+"The garden tools bent during ordinary use.",Negative
+"Support closed my ticket without fixing the issue.",Negative
+"The train was delayed and the seats were uncomfortable.",Negative
+"This planner is too small and the pages fall out.",Negative
+"The vegetarian options were unavailable when we arrived.",Negative
+"The charging cable frayed near the connector within a week.",Negative
+"The instructor rushed through everything and answered no questions.",Negative
+"The rental was dirty and did not match the listing photos.",Negative
+"The lotion has an overpowering smell and feels greasy.",Negative
+"My order arrived late with a cracked screen.",Negative
+"The reporting dashboard loses data whenever I change the date.",Negative
+"The concert sound was distorted and staff were unhelpful.",Negative
+"This backpack strap broke on my first trip.",Negative
+"The new tires made the car vibrate at highway speed.",Negative
+"The representative transferred me repeatedly without a solution.",Negative
+"The lunch was overpriced and the portions were tiny.",Negative
+"The subscription renewed after I had cancelled it.",Negative
+"The desk wobbles and the assembly holes do not line up.",Negative
+"The package arrived today in a plain cardboard box.",Neutral
+"The headphones have a standard three-button control.",Neutral
+"Customer support is available from nine in the morning.",Neutral
+"This coffee maker has a removable water reservoir.",Neutral
+"The jacket comes in four different colors.",Neutral
+"Setup took about twenty minutes using the printed guide.",Neutral
+"The delivery window was between noon and four.",Neutral
+"The hotel is located two blocks from the station.",Neutral
+"The phone battery is rated at five thousand milliamp hours.",Neutral
+"The replacement part is listed as compatible with this model.",Neutral
+"The garden soil contains compost and perlite.",Neutral
+"The menu includes pasta, soup, and a daily special.",Neutral
+"My order number is printed on the receipt.",Neutral
+"The display measures six inches diagonally.",Neutral
+"The project team met on Thursday afternoon.",Neutral
+"These shoes are available in sizes six through twelve.",Neutral
+"The update was released at the start of the month.",Neutral
+"The book has twelve chapters and an index.",Neutral
+"The technician checked the router and recorded its serial number.",Neutral
+"The moisturizer comes in a fifty milliliter bottle.",Neutral
+"The bus route stops outside the public library.",Neutral
+"The recipe lists flour, eggs, milk, and butter.",Neutral
+"The package includes a charger and a quick-start sheet.",Neutral
+"The keyboard connects through a USB receiver.",Neutral
+"The course contains six lessons and two practice exercises.",Neutral
+"The reservation is under the name Jordan Lee.",Neutral
+"The vacuum has a washable filter and a one liter bin.",Neutral
+"The refund request was submitted on Monday.",Neutral
+"The lamp uses a standard replaceable bulb.",Neutral
+"The headphones support Bluetooth and a wired connection.",Neutral
+"The cafe opens at seven and closes at five.",Neutral
+"The appliance warranty lasts for one year.",Neutral
+"The presentation contains sales figures for the last quarter.",Neutral
+"The delivery included two boxes and one envelope.",Neutral
+"The museum is open from Tuesday through Sunday.",Neutral
+"The website has separate pages for billing and account settings.",Neutral
+"The sheets are made from cotton and polyester.",Neutral
+"The return label can be printed from the order page.",Neutral
+"The camera stores photos on a removable memory card.",Neutral
+"The meeting agenda lists three discussion topics.",Neutral
+"The soup is available in a small or large bowl.",Neutral
+"The product is made from recycled plastic.",Neutral
+"The installation guide includes a diagram for each step.",Neutral
+"The garden tool set contains a trowel and hand fork.",Neutral
+"Support sent a confirmation email after I opened a ticket.",Neutral
+"The train departs from platform four at 10:15.",Neutral
+"The planner covers January through December.",Neutral
+"The lunch special changes every weekday.",Neutral
+"The charging cable is one meter long.",Neutral
+"The instructor posted the slides after class.",Neutral
+"The rental agreement begins on the first of June.",Neutral
+"The lotion is available in an unscented version.",Neutral
+"The order contains a blue mug and two filters.",Neutral
+"The dashboard shows monthly totals and category names.",Neutral
+"The concert doors open one hour before the performance.",Neutral
+"The backpack has three exterior pockets.",Neutral
+"The tire size is printed on the sidewall.",Neutral
+"The representative provided a reference number for the call.",Neutral
+"The subscription plan renews once per month.",Neutral
+"The desk measures one hundred twenty centimeters across.",Neutral
+"This is very good.",Positive
+"The overall quality is very good for the price.",Positive
+"The service was very good from start to finish.",Positive
+"I had a good experience with this purchase.",Positive
+"The food tasted good and the portions were generous.",Positive
+"This is a really good option for everyday use.",Positive
+"The picture quality is good, even in a bright room.",Positive
+"Everything worked well and the result was good.",Positive
+"The staff were friendly and the service was good.",Positive
+"I am happy with this good value purchase.",Positive
+"The book was good and kept me interested throughout.",Positive
+"The repair was done well and the appliance works again.",Positive
+"It is a good product that does exactly what I need.",Positive
+"The lesson was clear and the examples were good.",Positive
+"Overall, the experience was good and I would recommend it.",Positive
+"This is very bad.",Negative
+"The overall quality is very bad for the price.",Negative
+"The service was very bad from start to finish.",Negative
+"I had a bad experience with this purchase.",Negative
+"The food tasted bad and the portions were small.",Negative
+"This is a really bad option for everyday use.",Negative
+"The picture quality is bad, even in a bright room.",Negative
+"Nothing worked properly and the result was bad.",Negative
+"The staff were rude and the service was bad.",Negative
+"I regret this bad value purchase.",Negative
+"The book was bad and I struggled to finish it.",Negative
+"The repair was done poorly and the appliance still fails.",Negative
+"It is a bad product that does not do what I need.",Negative
+"The lesson was confusing and the examples were bad.",Negative
+"Overall, the experience was bad and I would not recommend it.",Negative
+"I used the item once during the weekend.",Neutral
+"The package contains a user guide and a charging cable.",Neutral
+"The shop lists the product in two sizes.",Neutral
+"The review describes the purchase and delivery date.",Neutral
+"The device has a power button on its right side.",Neutral
+"The meal includes a drink and a side dish.",Neutral
+"The class meets twice a week in the afternoon.",Neutral
+"The order was placed using the mobile website.",Neutral
+"The replacement is scheduled to arrive next Tuesday.",Neutral
+"The product label lists its materials and dimensions.",Neutral
+"The staff member checked the booking details.",Neutral
+"The book is available in paperback and digital formats.",Neutral
+"The appliance comes with a twelve-month warranty.",Neutral
+"The report includes comments from several customers.",Neutral
+"The service is listed in the account settings.",Neutral
